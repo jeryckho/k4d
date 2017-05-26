@@ -1,1 +1,1 @@
-"C:\Program Files\Blender Foundation\Blender\blender.exe" -b Map.blend -a
+"C:\Program Files\Blender Foundation\Blender\blender.exe" -b Map.blend -P scripts/Low.py -a
