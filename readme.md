@@ -21,9 +21,8 @@
 - [ ] Carte qui se déroule
 - [ ] Epée
 
-
 ## Détails
 
 - [ ] Ombre d'un Dragon
 - [ ] Serpent de Mer
-
+- [ ] Musique et Sons
