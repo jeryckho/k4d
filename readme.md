@@ -2,7 +2,7 @@
 
 ## Les Factions
 
-- [ ] Ksach : ?
+- [ ] Ksach : Crane ?
 - [ ] Hoshitsuki : Arche ou Pagode
 - [X] Alterak : **Couronne**
 - [X] Sartak : **Phénix**
