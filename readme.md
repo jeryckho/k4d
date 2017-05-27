@@ -23,6 +23,6 @@
 
 ## Détails
 
-- [ ] Ombre d'un Dragon
+- [X] Ombre d'un Dragon
 - [ ] Serpent de Mer
 - [ ] Musique et Sons
