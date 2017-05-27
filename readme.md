@@ -2,18 +2,18 @@
 
 ## Les Factions
 
-- [ ] Ksach : Crane ?
-- [ ] Hoshitsuki : Arche ou Pagode
-- [X] Alterak : **Couronne**
-- [X] Sartak : **Phénix**
-- [ ] Lunian : Etoile / Boule magique + main / Feu + Main
 - [ ] Shirama : Elephant, Chameau, Oasis ?
+- [X] Druide : **Arbre-Vie**
+- [ ] Lunian : Etoile / Boule magique + main / Feu + Main
 - [X] Mando : **Diamant**
 - [ ] Passionata : Coeur Violet / Loup vénitien
 - [ ] Elfe : Diadème / Arc
-- [ ] Kolona : **Masque Noir/Rouge**
+- [ ] Hoshitsuki : Arche ou Pagode
+- [X] Alterak : **Couronne**
 - [ ] Barbares : Hache (ou Ours)
-- [X] Druide : **Arbre-Vie**
+- [ ] Ksach : Crane ?
+- [ ] Kolona : **Masque Noir/Rouge**
+- [X] Sartak : **Phénix**
 
 ## Intro
 
