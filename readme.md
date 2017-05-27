@@ -25,4 +25,5 @@
 
 - [X] Ombre d'un Dragon
 - [ ] Serpent de Mer
-- [ ] Musique et Sons
+- [X] Musique
+- [ ] Sons
