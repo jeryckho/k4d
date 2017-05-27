@@ -13,7 +13,7 @@
 - [ ] Elfe : Diadème / Arc
 - [ ] Kolona : **Masque Noir/Rouge**
 - [ ] Barbares : Hache (ou Ours)
-- [ ] Druide : **Arbre-Vie**
+- [X] Druide : **Arbre-Vie**
 
 ## Intro
 
