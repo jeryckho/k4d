@@ -10,8 +10,8 @@
 - [ ] Elfe : Diadème / Arc
 - [ ] Hoshitsuki : Arche ou Pagode
 - [X] Alterak : **Couronne**
-- [ ] Barbares : Hache (ou Ours)
-- [ ] Ksach : Crane ?
+- [X] Barbares : **Hache** (ou Ours)
+- [X] Ksach : Crane ?
 - [ ] Kolona : **Masque Noir/Rouge**
 - [X] Sartak : **Phénix**
 
