@@ -2,6 +2,9 @@
 
 import bpy
 import sys
+import time
+start = time.time()
+
 argv = sys.argv
 try:
     index = argv.index("--") + 1
@@ -18,3 +21,8 @@ if len(argv) > 0:
 if (len(argv) > 1) and (int(argv[1]) > 0):
     bpy.ops.render.render(animation=True)
 
+end = time.time()
+elapsed = end - start
+print(time.strftime("%A %d %B %Y %H:%M:%S",time.localtime(start)))
+print(time.strftime("%A %d %B %Y %H:%M:%S",time.localtime(end)))
+print(elapsed)
