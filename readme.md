@@ -2,12 +2,12 @@
 
 ## Les Factions
 
-- [ ] Shirama : Elephant, Chameau, Oasis ?
+- [ ] Shirama : Théière, Elephant, Chameau, Oasis ?
 - [X] Druide : **Arbre-Vie**
-- [ ] Lunian : Etoile / Boule magique + main / Feu + Main
+- [ ] Lunian : Chapeau de mage /  Etoile / Boule magique + main / Feu + Main
 - [X] Mando : **Diamant**
-- [ ] Passionata : Coeur Violet / Loup vénitien
-- [ ] Elfe : Diadème / Arc
+- [ ] Passionata : Coeur Violet / Loup vénitien / Fleur
+- [ ] Elfe : Diadème / Arc / Licorne
 - [ ] Hoshitsuki : Arche ou Pagode
 - [X] Alterak : **Couronne**
 - [X] Barbares : **Hache** (ou Ours)
